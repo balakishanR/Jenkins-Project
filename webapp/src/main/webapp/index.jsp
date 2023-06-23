@@ -50,7 +50,7 @@
             <div class="text">
                 <div class="text-one">Hello,</div>
                 <div class="text-two">I'm Balakishan Renjarla</div>
-                <div class="text-three">Frontend Developer</div>
+                <div class="text-three">DevOps Engineer</div>
                 <div class="text-four">From India</div>
             </div>
             <div class="button">
@@ -90,19 +90,19 @@
                 </div>
                 <div class="boxes">
                     <div class="box">
-                        <div class="topic">HTML</div>
+                        <div class="topic">AWS</div>
                         <div class="per">80%</div>
                     </div>
                     <div class="box">
-                        <div class="topic">CSS</div>
+                        <div class="topic">Linux</div>
                         <div class="per">70%</div>
                     </div>
                     <div class="box">
-                        <div class="topic">Javascript</div>
+                        <div class="topic">Git</div>
                         <div class="per">75%</div>
                     </div>
                     <div class="box">
-                        <div class="topic">Bootstrap</div>
+                        <div class="topic">Jenkinstrap</div>
                         <div class="per">90%</div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <div class="icon">
                         <i class="fas fa-desktop"></i>
                     </div>
-                    <div class="topic">Web Development</div>
+                    <div class="topic">CI/CD</div>
                     <p>
                     </p>
                 </div>
@@ -128,7 +128,7 @@
                     <div class="icon">
                         <i class="fas fa-paint-brush"></i>
                     </div>
-                    <div class="topic">Graphic Design</div>
+                    <div class="topic">DevOps</div>
                     <p>
                     </p>
                 </div> -->
@@ -136,7 +136,7 @@
                     <div class="icon">
                         <i class="fas fa-desktop"></i>
                     </div>
-                    <div class="topic">Dynamic Websites</div>
+                    <div class="topic">Automation</div>
                     <p>
                     </p>
                 </div>
